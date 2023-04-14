@@ -1,6 +1,7 @@
 # Steps to run the project
 #### 1. [Optionally] Create and activate a virtual environment
 ```python -m venv venv```
+
 ```source venv/bin/activate```
 #### 2. [Optionally] Install apache-beam and pandas
 ```python -m pip install -r requirements.txt```
